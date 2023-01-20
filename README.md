@@ -1,6 +1,8 @@
 Portfoli d'aprenentatge
 =======================
 
+* [Presentació](Presentacio.md)
+
 ---
 
 Autor: Joan Rodríguez Bellido
