@@ -2,6 +2,7 @@ Portfoli d'aprenentatge
 =======================
 
 * [Presentació](Presentacio.md)
+* [Infografia - Scrum Educatiu: beneficis metodològics](Infografia-Scrum.md)
 
 ---
 
