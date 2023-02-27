@@ -5,10 +5,11 @@ L'hospital de la ciutat ens ha demanat que li desenvolupem una aplicació per a 
 
 En cas que l'evolució sigui positiva, durant el segon curs s'acabaria de desenvolupar l'aplicació, ja que caldrien les competències associades als mòduls professionals de segon.
 
-[**Accés al disseny**](https://view.genial.ly/63fcc74d2cfb7400137d1fe9/interactive-content-canvas-projectes-abp)
-
-![Disseny projecte hospital](projecte-hospital.png)
+[**Fer click aqui per accedir al disseny complet**](https://view.genial.ly/63fcc74d2cfb7400137d1fe9/interactive-content-canvas-projectes-abp)
 
 
-![Detall de les competències](projecte-hospital-competencies.png)
+[Fer clic aqui per ampliar la imatge del disseny <img src="projecte-hospital.png" alt="Disseny projecte hospital">](projecte-hospital.png)
+
+
+[Fer clic aqui per ampliar el detall de les competències <img src="projecte-hospital.png" alt="Detall de les competències">](projecte-hospital-competencies.png)
 
