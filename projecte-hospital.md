@@ -11,5 +11,5 @@ En cas que l'evolució sigui positiva, durant el segon curs s'acabaria de desenv
 [Fer clic aqui per ampliar la imatge del disseny <img src="projecte-hospital.png" alt="Disseny projecte hospital">](projecte-hospital.png)
 
 
-[Fer clic aqui per ampliar el detall de les competències <img src="projecte-hospital.png" alt="Detall de les competències">](projecte-hospital-competencies.png)
+[Fer clic aqui per ampliar el detall de les competències <img src="projecte-hospital-competencies.png" alt="Detall de les competències">](projecte-hospital-competencies.png)
 
