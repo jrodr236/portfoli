@@ -5,6 +5,7 @@ Portfoli d'aprenentatge
 * [Infografia - Scrum Educatiu: beneficis metodològics](Infografia-Scrum.md)
 * [Enunciat projecte _Fallout Terminal_](ft.pdf)
 * [Disseny projecte Hospital](projecte-hospital.md)
+* [Video de presentació del projecte R.P.D. Network](video.md)
 
 ---
 
