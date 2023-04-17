@@ -1,11 +1,20 @@
-Portfoli d'aprenentatge
+Portfoli d'aprenentatge #activaFPmooc
 =======================
+
+MOOC ABP1
+------------------
 
 * [Presentació](Presentacio.md)
 * [Infografia - Scrum Educatiu: beneficis metodològics](Infografia-Scrum.md)
 * [Enunciat projecte _Fallout Terminal_](ft.pdf)
 * [Disseny projecte Hospital](projecte-hospital.md)
 * [Video de presentació del projecte R.P.D. Network](video.md)
+
+
+MOOC ABP2
+------------------
+
+* [Reflexió motivació actors](reflexio-motivacio-actors-abp.md)
 
 ---
 
