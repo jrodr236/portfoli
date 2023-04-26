@@ -15,6 +15,7 @@ MOOC ABP2
 ------------------
 
 * [Reflexió motivació actors](reflexio-motivacio-actors-abp.md)
+* [Instruments d'avaluació](Instruments-davaluacio.md)
 
 ---
 
